@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canada;Francais",ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 group-title="Canada;Francais",ICI Tele Ouest
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 group-title="Canada;Francais;Kids",Tele-Quebec
+#https://bcovlive-a.akamaihd.net/b7988e7f33b34cf2bf86a766afcadd3c/us-west-2/6101674910001/playlist_wv.m3u8
+#EXTINF:-1 group-title="Canada;Francais",TVA
+https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 group-title="Canada;English",CBC TV Montreal
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8
+#EXTINF:-1 group-title="Canada;English",CBC TV West
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 group-title="Canada;English",CBC Schitt's Creek
+https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master1080p.m3u8
+#EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele Jeunesse
+https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master1080p.m3u8
+#EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele L'agent Jean
+https://amagi-streams.akamaized.net/hls/live/2120486/rclagentjean/master1080p.m3u8
+#EXTINF:-1 group-title="Canada;Kids;English",CBC Kids
+https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master1080p.m3u8
+#EXTINF:-1 group-title="Canada;Kids;English",TVOKids
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+#EXTINF:-1 group-title="Canada;Kids;English",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 group-title="Kids;English",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 group-title="Kids;English",PBS Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+
+#EXTINF:-1 group-title="English",Disney
+#https://tvpass.org/live/DisneyChannelEast/sd
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="English",Disney Junior
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 group-title="English",Disney XD
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 group-title="English",Nick Jr.
+https://tvpass.org/live/NickJrEast/sd
+#EXTINF:-1 group-title="English",Nickelodeon
+#https://tvpass.org/live/NickelodeonEast/sd
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="English",Nicktoons
+#https://tvpass.org/live/NicktoonsEast/sd
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="English",MeTV Toons
+https://tvpass.org/live/metv-toons/sd
+#EXTINF:-1 group-title="English",Cartoon Network
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+#EXTINF:-1 tvg-name="Noovo" group-title="Canada;Francais",Noovo
+#https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest.mpd
+#EXTINF:-1 group-title="Canada;Francais",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="Canada;Francais",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 group-title="Canada;English",Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CPAC,CPAC
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 group-title="English",PBS
+https://tvpass.org/live/WNET/sd
+#EXTINF:0 tvg-logo="",Gulli
+#https://raw.githubusercontent.com/Xytrios/OnlineTV/main/gullihdapr23.m3u8
