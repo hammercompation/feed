@@ -4,7 +4,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 group-title="Canada;Francais",ICI Tele Ouest
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
 #EXTINF:-1 group-title="Canada;Francais;Kids",Tele-Quebec
-#https://bcovlive-a.akamaihd.net/b7988e7f33b34cf2bf86a766afcadd3c/us-west-2/6101674910001/playlist_wv.m3u8
+https://bcovlive-a.akamaihd.net/f8eeb360273d4f5a95588e537b6fe8fc/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="Canada;Francais",TVA
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV Montreal
@@ -57,8 +57,9 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 group-title="Canada;English",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="CPAC,CPAC
-https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 group-title="English",PBS
 https://tvpass.org/live/WNET/sd
 #EXTINF:0 tvg-logo="",Gulli
 #https://raw.githubusercontent.com/Xytrios/OnlineTV/main/gullihdapr23.m3u8
+
