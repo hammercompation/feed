@@ -3,8 +3,6 @@
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 group-title="Canada;Francais",ICI Tele Ouest
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 group-title="Canada;Francais;Kids",Tele-Quebec
-https://bcovlive-a.akamaihd.net/f8eeb360273d4f5a95588e537b6fe8fc/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="Canada;Francais",TVA
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV Montreal
@@ -13,6 +11,8 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC Schitt's Creek
 https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master1080p.m3u8
+#EXTINF:-1 group-title="Canada;Francais;Kids",Tele-Quebec
+https://bcovlive-a.akamaihd.net/f8eeb360273d4f5a95588e537b6fe8fc/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele Jeunesse
 https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master1080p.m3u8
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele L'agent Jean
@@ -62,4 +62,5 @@ https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3
 https://tvpass.org/live/WNET/sd
 #EXTINF:0 tvg-logo="",Gulli
 #https://raw.githubusercontent.com/Xytrios/OnlineTV/main/gullihdapr23.m3u8
+
 
