@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canada;Francais",ICI Tele Montreal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 group-title="Canada;Francais",ICI Tele Ouest
+#EXTINF:-1 group-title="Canada;Francais",ICI Tele Vancouver
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 group-title="Canada;Francais",ICI Tele Manitoba
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+#EXTINF:-1 group-title="Canada;Francais",ICI Tele Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
 #EXTINF:-1 group-title="Canada;Francais",TVA
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 group-title="Canada;Francais",Savoir média
+https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV Montreal
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV West
@@ -62,5 +68,11 @@ https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3
 https://tvpass.org/live/WNET/sd
 #EXTINF:0 tvg-logo="",Gulli
 #https://raw.githubusercontent.com/Xytrios/OnlineTV/main/gullihdapr23.m3u8
+
+EXTINF:-1 group-title="Panama;espanol",Nex
+https://movil.ejeserver.com/live/nextv.m3u8
+#EXTINF:-1 group-title="Panama;espanol",+23
+https://movil.ejeserver.com/live/mas23tv.m3u8
+
 
 
