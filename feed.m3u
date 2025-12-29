@@ -71,10 +71,11 @@ https://tvpass.org/live/WNET/sd
 #EXTINF:0 tvg-logo="",Gulli
 #https://raw.githubusercontent.com/Xytrios/OnlineTV/main/gullihdapr23.m3u8
 
-EXTINF:-1 group-title="Panama;espanol",Nex
+#EXTINF:-1 group-title="Panama;espanol",Nex
 https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:-1 group-title="Panama;espanol",+23
 https://movil.ejeserver.com/live/mas23tv.m3u8
+
 
 
 
