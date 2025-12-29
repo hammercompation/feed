@@ -9,8 +9,6 @@ https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
 #EXTINF:-1 group-title="Canada;Francais",TVA
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 group-title="Canada;Francais",TFO
-https://livecdn.use1-0004.jwplive.com/live/sites/sgl7mkxP/media/L5shKNLm/live.isml/.m3u8
 #EXTINF:-1 group-title="Canada;Francais",Savoir média
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV Montreal
@@ -27,6 +25,8 @@ https://bcovlive-a.akamaihd.net/f8eeb360273d4f5a95588e537b6fe8fc/us-west-2/61016
 https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master1080p.m3u8
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele L'agent Jean
 https://amagi-streams.akamaized.net/hls/live/2120486/rclagentjean/master1080p.m3u8
+#EXTINF:-1 group-title="Canada;Francais",TFO
+https://livecdn.use1-0004.jwplive.com/live/sites/sgl7mkxP/media/L5shKNLm/live.isml/.m3u8
 #EXTINF:-1 group-title="Canada;Kids;English",CBC Kids
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master1080p.m3u8
 #EXTINF:-1 group-title="Canada;Kids;English",TVOKids
@@ -58,8 +58,6 @@ https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 group-title="English",Cartoon Network
 https://tvpass.org/live/CartoonNetworkEast/sd
 
-#EXTINF:-1 tvg-name="Noovo" group-title="Canada;Francais",Noovo
-#https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest.mpd
 #EXTINF:-1 group-title="Canada;Francais",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="Canada;Francais",LCN
@@ -70,13 +68,12 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 group-title="English",PBS
 https://tvpass.org/live/WNET/sd
-#EXTINF:0 tvg-logo="",Gulli
-#https://raw.githubusercontent.com/Xytrios/OnlineTV/main/gullihdapr23.m3u8
 
 #EXTINF:-1 group-title="Panama;espanol",Nex
 https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:-1 group-title="Panama;espanol",+23
 https://movil.ejeserver.com/live/mas23tv.m3u8
+
 
 
 
