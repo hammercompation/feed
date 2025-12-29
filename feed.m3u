@@ -12,9 +12,11 @@ https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee
 #EXTINF:-1 group-title="Canada;Francais",Savoir média
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV Montreal
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8
-#EXTINF:-1 group-title="Canada;English",CBC TV West
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 group-title="Canada;English",CBC TV Vancouver
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 group-title="Canada;English",CBC TV Fredericton
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC Schitt's Creek
 https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master1080p.m3u8
 #EXTINF:-1 group-title="Canada;Francais;Kids",Tele-Quebec
@@ -73,6 +75,7 @@ EXTINF:-1 group-title="Panama;espanol",Nex
 https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:-1 group-title="Panama;espanol",+23
 https://movil.ejeserver.com/live/mas23tv.m3u8
+
 
 
 
