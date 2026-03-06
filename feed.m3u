@@ -19,14 +19,14 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC Schitt's Creek
 https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master1080p.m3u8
+#EXTINF:-1 group-title="Canada;Francais",TFO
+https://livecdn.use1-0004.jwplive.com/live/sites/sgl7mkxP/media/L5shKNLm/live.isml/.m3u8
 #EXTINF:-1 group-title="Canada;Francais;Kids",Tele-Quebec
 https://bcovlive-a.akamaihd.net/f8eeb360273d4f5a95588e537b6fe8fc/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele Jeunesse
 https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master1080p.m3u8
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele L'agent Jean
 https://amagi-streams.akamaized.net/hls/live/2120486/rclagentjean/master1080p.m3u8
-#EXTINF:-1 group-title="Canada;Francais",TFO
-https://livecdn.use1-0004.jwplive.com/live/sites/sgl7mkxP/media/L5shKNLm/live.isml/.m3u8
 #EXTINF:-1 group-title="Canada;Kids;English",CBC Kids
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master1080p.m3u8
 #EXTINF:-1 group-title="Canada;Kids;English",TVOKids
@@ -44,7 +44,8 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="Canada;English",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 group-title="Canada;English",CPAC
-https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 group-title="Canada;Francais",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 group-title="Canada;English",CPAC
+https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
