@@ -38,48 +38,13 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="Kids;English",PBS Hawaii
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 
-#EXTINF:-1 group-title="English",Disney
-#https://tvpass.org/live/DisneyChannelEast/sd
-https://fl31.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title="English",Disney Junior
-https://tvpass.org/live/DisneyJuniorEast/sd
-#EXTINF:-1 group-title="English",Disney XD
-https://tvpass.org/live/DisneyXDEast/sd
-#EXTINF:-1 group-title="English",Nick Jr.
-https://tvpass.org/live/NickJrEast/sd
-#EXTINF:-1 group-title="English",Nickelodeon
-#https://tvpass.org/live/NickelodeonEast/sd
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="English",Nicktoons
-#https://tvpass.org/live/NicktoonsEast/sd
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="English",MeTV Toons
-https://tvpass.org/live/metv-toons/sd
-#EXTINF:-1 group-title="English",Cartoon Network
-https://tvpass.org/live/CartoonNetworkEast/sd
-
 #EXTINF:-1 group-title="Canada;English",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 group-title="Canada;Francais",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="Canada;Francais",LCN
-https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 group-title="Canada;English",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 #EXTINF:-1 group-title="Canada;English",CPAC,CPAC
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 group-title="English",PBS
-https://tvpass.org/live/WNET/sd
-
-#EXTINF:-1 group-title="Panama;espanol",Nex
-https://movil.ejeserver.com/live/nextv.m3u8
-#EXTINF:-1 group-title="Panama;espanol",+23
-https://movil.ejeserver.com/live/mas23tv.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Canada;Francais",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
