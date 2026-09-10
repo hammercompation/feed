@@ -21,8 +21,6 @@ https://cbcrclinear-tor2.akamaized.net/hls/live/20000029/CBCRCLINEAR_TOR_ATC/mas
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000037/CBCRCLINEAR_TOR_STR/master_3000.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC Schitt's Creek
 https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master1080p.m3u8
-#EXTINF:-1 group-title="Canada;Francais;Kids",Tele-Quebec
-https://bcovlive-a.akamaihd.net/f8eeb360273d4f5a95588e537b6fe8fc/us-west-2/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele Jeunesse
 https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master1080p.m3u8
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele L'agent Jean
