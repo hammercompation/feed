@@ -20,13 +20,13 @@ https://cbcrclinear-tor2.akamaized.net/hls/live/20000029/CBCRCLINEAR_TOR_ATC/mas
 #EXTINF:-1 group-title="Canada;English",CBC TV SK
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000037/CBCRCLINEAR_TOR_STR/master_3000.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC Schitt's Creek
-https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master1080p.m3u8
+https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master.m3u8
+#EXTINF:-1 group-title="Canada;Kids;Francais",TFO
+https://cdn.jwplayer.com/live/broadcast/o9WzVuTG.mpd?exp=1793029235&sig=d04466431e2177c35ec2c871353c65a0
 #EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele Jeunesse
-https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master1080p.m3u8
-#EXTINF:-1 group-title="Canada;Kids;Francais",ICI Tele L'agent Jean
-https://amagi-streams.akamaized.net/hls/live/2120486/rclagentjean/master1080p.m3u8
+https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master.m3u8
 #EXTINF:-1 group-title="Canada;Kids;English",CBC Kids
-https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master1080p.m3u8
+https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
 #EXTINF:-1 group-title="Canada;Kids;English",TVOKids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 #EXTINF:-1 group-title="Canada;Kids;English",Knowledge Network
@@ -36,6 +36,8 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="Kids;English",PBS Hawaii
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 
+#EXTINF:-1 group-title="Canada;English",CBC News
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 #EXTINF:-1 group-title="Canada;English",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 #EXTINF:-1 group-title="Canada;Francais",LCN
