@@ -11,6 +11,8 @@ https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
 https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 group-title="Canada;Francais",Savoir média
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 group-title="France;Francais",ARTE
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV QC
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000034/CBCRCLINEAR_TOR_ETM/master_3000.m3u8
 #EXTINF:-1 group-title="Canada;English",CBC TV BC
